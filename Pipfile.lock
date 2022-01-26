@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "84df7b12c5edc4c1b9607b998fb845e081689ce3ad7bb674683aa6820cd2c168"
+            "sha256": "02e0fd70dacf29a502e12fdfd6b3b05329a4ee346a928e8c09c0d3e4c538b33e"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -57,10 +57,9 @@
         },
         "textual": {
             "hashes": [
-                "sha256:1e6eae6f904b6c1210ea6e6d9d1f388ab6b9665117b1c72b9a63660ab71df31f",
-                "sha256:69ef5db48e76e0853589bfae88a76038f70d37434129cf8869d5a61779654b4c"
+                "sha256:448a58b209edad65d3af909ad9c184d2aeb186eb1e900179ad24126f4c55dfa2"
             ],
-            "index": "pypi",
+            "path": "./../textual/dist/textual-0.1.14.tar.gz",
             "version": "==0.1.14"
         }
     },

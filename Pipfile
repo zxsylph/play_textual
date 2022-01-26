@@ -4,8 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-textual = "*"
 pyfiglet = "*"
+textual = {path = "./../textual/dist/textual-0.1.14.tar.gz"}
 
 [dev-packages]
 
